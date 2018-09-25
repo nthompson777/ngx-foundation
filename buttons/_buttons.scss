@@ -1,0 +1,16 @@
+.button.selectable {
+
+  &:focus {
+    filter:brightness(110%);
+  }
+
+  &.active,
+  &.active:focus {
+
+    @each $color-name, $color-variable in $color-map {
+      &.#{$color-name} {
+        background-color: darken($color-variable, 15%);
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"version": "1.0.0",
+	"description": "Native Angular Foundation for Sites Components",
+	"module": "index.js",
+	"typings": "index.d.ts",
+	"keywords": [
+		"angular",
+		"foundation",
+		"ng",
+		"ng2",
+		"angular2",
+		"zurb-foundation",
+		"Foundation-for-Sites"
+	],
+	"author": {
+		"name": "Dmitriy Shekhovtsov, Nate Thompson",
+		"email": "nathanielct777@gmail.com"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/nthompson777/ngx-foundation.git"
+	},
+	"name": "ngx-foundation",
+	"peerDependencies": {
+		"@angular/common": ">=6.0.0",
+		"@angular/core": ">=6.0.0"
+	},
+	"_id": "ngx-foundation@"
+}

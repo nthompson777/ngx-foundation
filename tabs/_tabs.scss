@@ -1,0 +1,10 @@
+.bs-remove-tab {
+  color: $remove-tab-color;
+  position: relative;
+  top: -15px;
+  right: -15px;  
+}
+
+.tabs.vertical + .tabs-content {
+  border-top: 1px solid $tab-content-border;
+}

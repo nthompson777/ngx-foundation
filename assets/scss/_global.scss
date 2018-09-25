@@ -1,0 +1,13 @@
+// ngx-foundation Global Styles
+
+.muted-color,
+.disabled,
+.tabs-title > a.disabled {
+	color: $muted-color;  // disabled state
+}
+
+.disabled {
+	cursor: $cursor-disabled;
+	user-select: $user-select-disabled;
+	pointer-events: $pointer-disabled;
+}

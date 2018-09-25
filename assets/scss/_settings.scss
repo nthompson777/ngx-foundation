@@ -1,0 +1,23 @@
+/* $button-background-active: darken($button-palette, 45%) !default;
+$button-selectable-focus: darken($button-palette, 45%) !default; */
+$color-map: (
+  primary: $primary-color, 
+  secondary: $secondary-color, 
+  // tertiary: $tertiary-color, 
+  success: $success-color, 
+  warning: $warning-color, 
+  alert: $alert-color,
+) !default;
+
+// Disabled Page Elements Styles
+$cursor-disabled: not-allowed !default;
+$user-select-disabled: none !default;
+$pointer-disabled: none !default; // Change to 'auto' if you wish to have native Foundation behavior
+
+$muted-color: $medium-gray !default;
+
+// Progressbar
+$progress-meter-animation: width .6s ease !default;
+
+// Tabs
+$remove-tab-color: $alert-color;

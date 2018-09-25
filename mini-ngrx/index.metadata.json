@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"Action":{"__symbolic":"interface"},"ActionReducer":{"__symbolic":"interface"}},"exports":[{"from":"./state.class","export":["MiniState"]},{"from":"./store.class","export":["MiniStore"]}]}]

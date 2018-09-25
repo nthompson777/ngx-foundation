@@ -1,0 +1,23 @@
+table.timepicker {
+  user-select: none;
+
+  tbody {
+    border: none;
+
+    tr:nth-child(even) {
+      background: transparent;
+    }
+
+    td {
+      padding: 0.2rem;
+
+      .button {
+        margin-bottom: 0;
+      }
+
+      .bs-timepicker-field {
+        margin-bottom: 0;
+      }
+    }
+  }
+}

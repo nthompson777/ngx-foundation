@@ -1,0 +1,10 @@
+.sortable {
+  padding: 6px 12px;
+  cursor: grab;
+}
+
+.sortable.active,
+.sortable.placeholder {
+  border: 2px dashed $medium-gray;
+  user-select: none;
+}

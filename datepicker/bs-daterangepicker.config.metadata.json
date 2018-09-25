@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"BsDaterangepickerConfig":{"__symbolic":"class","extends":{"__symbolic":"reference","module":"./bs-datepicker.config","name":"BsDatepickerConfig","line":4,"character":45},"decorators":[{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular/core","name":"Injectable","line":3,"character":1}}]}}}]
