@@ -8,7 +8,7 @@ var BsDatepickerConfig = /** @class */ (function () {
         /** CSS class which will be applied to datepicker container,
            * usually used to set color theme
            */
-        this.containerClass = 'theme-green';
+        this.containerClass = 'theme-primary';
         // DatepickerRenderOptions
         this.displayMonths = 1;
         /**
