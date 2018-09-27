@@ -12,9 +12,9 @@ var BsDatepickerConfig = /** @class */ (function () {
         // DatepickerRenderOptions
         this.displayMonths = 1;
         /**
-           * Allows to hide week numbers in datepicker
+           * Allows to show week numbers in datepicker
            */
-        this.showWeekNumbers = true;
+        this.showWeekNumbers = false;
         this.dateInputFormat = 'L';
         // range picker
         this.rangeSeparator = ' - ';

@@ -10,7 +10,7 @@
   box-shadow: 0 0 10px 0 $main-box-shadow;
   position: relative;
   z-index: 1;
-  left: 52px !important;
+  //left: 52px !important;
 
 
   &:after {
@@ -40,9 +40,9 @@
 
   /* .bs-datepicker-head */
   &-head {
-    min-width: 270px;
-    height: 50px;
-    padding: 10px;
+    min-width: 250px;
+    height: 40px;
+    padding: 5px;
     border-radius: 3px 3px 0 0;
     text-align: center;
 
@@ -116,7 +116,7 @@
     padding: $body-padding;
     border-radius: 0 0 3px 3px;
     // min-height: 232px;
-    min-width: 320px;
+    min-width: 290px;
     border: 1px solid $border-color;
 
     .days.weeks {
@@ -132,7 +132,7 @@
       margin-bottom: .3rem;
 
       th {
-        font-size: 11px;
+        font-size: 10px;
         color: $font-color-02;
         font-weight: 400;
         text-align: center;
