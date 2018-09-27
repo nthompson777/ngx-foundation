@@ -1,5 +1,5 @@
 {
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Native Angular Foundation for Sites Components",
 	"module": "index.js",
 	"typings": "index.d.ts",
