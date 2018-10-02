@@ -6,24 +6,18 @@
 Best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites (6.4 or later)</a>  components with <a href="https://angular.io/">Angular 6</a>. This is a fork of ngx-bootstrap. No jQuery is required to implement with your Angular project.
 </p>
 
-## Links
+<!-- ## Links
 
-- [Documentation](http://ngxfoundation.com)
-<!-- - [Release Notes](https://github.com/valor-software/ngx-foundation/blob/development/CHANGELOG.md) -->
+- [Documentation](https://ngxfoundation.com)
+ - [Release Notes](https://github.com/valor-software/ngx-foundation/blob/development/CHANGELOG.md) -->
 
-<!-- [![codecov](https://codecov.io/gh/valor-software/ngx-foundation/branch/development/graph/badge.svg)](https://codecov.io/gh/valor-software/ngx-foundation) -->
-
-<!-- [![NPM](https://nodei.co/npm/ngx-foundation.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/ngx-foundation)
-[![NPM](https://nodei.co/npm-dl/ngx-foundation.png?height=3&months=6)](https://npmjs.org/ngx-foundation)
-[![Sauce Test Status](https://saucelabs.com/browser-matrix/valorkin.svg)](https://saucelabs.com/u/valorkin)
--->
 
 ## Table of contents
 1. [Getting Started](#getting-started)
-2. [Installation instructions](#installation-instructions)
-3. [API & Demo](#api)
-5. [Troubleshooting](#troubleshooting)
-6. [Contributing](#contribution)
+2. [Installation Instructions](#installation-instructions)
+3. [API and Demo](#api-and-demo)
+4. [Troubleshooting](#troubleshooting)
+5. [License](#license)
 
 ## Getting Started
 
@@ -69,18 +63,10 @@ Sometimes, your project might contain some library that could interfear with the
 Link to the Starter Project Coming Soon!.............
 ```
 
-<!-- ## Usage & Demo
+## API and Demo
 
 API documentation and usage scenarios available here:
-[http://ngxfoundation.com](http://ngxfoundation.com) -->
-
-<!-- Additionally you can find demos and docs deployed from latest code with <a href="https://ngx-foundation.surge.sh/">angular v4</a> and <a
-  href="https://ngx-foundation-latest.surge.sh/">angular v5</a>
-
-Server side rendered version of this documentation available <a href="https://ngx-universal.herokuapp.com/">here</a> -->
-
-## API
-Demo page for API [reference](http://ngxfoundation.com)
+[https://ngxfoundation.com](https://ngxfoundation.com)
 
 <!-- ### How to use it with:
  - `Bootstrap and angular-cli` please refer to [using-with-bootstrap-and-angular-cli](https://github.com/valor-software/ngx-foundation/tree/development/docs/getting-started/bootstrap.md)
