@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-Best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites >= 6.4.X</a>  components with <a href="https://angular.io/">Angular 6</a>. This is a fork of ngx-foundation so no jQuery required to implement with your Angular project.
+Best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites (6.4 or later)</a>  components with <a href="https://angular.io/">Angular 6</a>. This is a fork of ngx-bootstrap. No jQuery is required to implement with your Angular project.
 </p>
 
 ## Links
@@ -21,8 +21,7 @@ Best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Founda
 ## Table of contents
 1. [Getting Started](#getting-started)
 2. [Installation instructions](#installation-instructions)
-3. [Usage & Demo](#usage--demo)
-4. [API](#api)
+3. [API & Demo](#api)
 5. [Troubleshooting](#troubleshooting)
 6. [Contributing](#contribution)
 
