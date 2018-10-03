@@ -54,7 +54,7 @@ You will need Foundation 6 styles:
 - `Foundation 6`
 ```
 <!-- index.html -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.0-rc.3/css/foundation.min.css" rel="stylesheet">
 ```
 
 ### Setting up the Foundation version manually
