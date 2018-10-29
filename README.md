@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-Best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites (6.4 or later)</a>  components with <a href="https://angular.io/">Angular 6</a>. This is a fork of ngx-bootstrap. No jQuery is required to implement with your Angular project.
+The best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites (6.4 or later)</a>  components with <a href="https://angular.io/">Angular 6 or 7</a>. This is a fork of <a href="https://valor-software.com/ngx-bootstrap" target="_blank">ngx-bootstrap by Valor Software</a>. No jQuery is required to implement with your Angular project.
 </p>
 
 <!-- ## Links
@@ -16,8 +16,9 @@ Best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Founda
 1. [Getting Started](#getting-started)
 2. [Installation Instructions](#installation-instructions)
 3. [API and Demo](#api-and-demo)
-4. [Troubleshooting](#troubleshooting)
-5. [License](#license)
+4. [Starter Kit](#starter-kit)
+5. [Troubleshooting](#troubleshooting)
+6. [License](#license)
 
 ## Getting Started
 
@@ -50,17 +51,13 @@ Add component to your page:
 </button>
 ```
 
-You will need Foundation 6 styles:
+Download the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7 and SCSS) to get up and running quickly.
+
+If you're going the CSS route you will need Foundation 6 styles:
 - `Foundation 6`
 ```
 <!-- index.html -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.0-rc.3/css/foundation.min.css" rel="stylesheet">
-```
-
-### Setting up the Foundation version manually
-Sometimes, your project might contain some library that could interfear with the Foundation framework, or you might have a customized version of Foundation:
-```
-Link to the Starter Project Coming Soon!.............
+<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css" rel="stylesheet">
 ```
 
 ## API and Demo
@@ -97,14 +94,13 @@ First time:
  - `ng serve` _*// in second*_ -->
 
 
+### Starter Kit
+
+Want to get your ngx-foundation project up and running quickly? Use the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7 and SCSS) with detailed instructions and includes all necessary base assets and components.    
+
 ## Troubleshooting
 
-So if you are in trouble, here's where you can look for help.
-
 The best place to ask questions is on [StackOverflow (under the `ngx-foundation` tag)](https://stackoverflow.com/questions/tagged/ngx-foundation)
-
-
-<!-- If, **and only if**, none of the above helped, please open a [new issue](https://github.com/nthompson777/ngx-foundation/issues/new). -->
 
 ### License
 
