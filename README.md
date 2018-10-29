@@ -51,17 +51,13 @@ Add component to your page:
 </button>
 ```
 
-You will need Foundation 6 styles:
+Download the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7 and SCSS) to get up and running quickly.
+
+If you're going the CSS route you will need Foundation 6 styles:
 - `Foundation 6`
 ```
 <!-- index.html -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.0-rc.3/css/foundation.min.css" rel="stylesheet">
-```
-
-### Setting up the Foundation version manually
-Sometimes, your project might contain some library that could interfear with the Foundation framework, or you might have a customized version of Foundation:
-```
-Link to the Starter Project Coming Soon!.............
+<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css" rel="stylesheet">
 ```
 
 ## API and Demo
