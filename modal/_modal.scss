@@ -1,0 +1,22 @@
+.fade {
+	opacity: 0;
+	transition: opacity .15s linear;
+}
+
+.fade.fade-in {
+	opacity: 1;
+}
+
+.reveal {
+	display: none;
+	overflow: hidden;
+}
+
+.fade .reveal {
+	transition: transform .3s ease-out;
+	transform: translate(0,-25%);
+}
+
+.fade.fade-in .reveal {
+	transform: translate(0,0);
+}
