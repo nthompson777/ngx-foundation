@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-Best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites (6.4 or later)</a>  components with <a href="https://angular.io/">Angular 6</a>. This is a fork of ngx-bootstrap. No jQuery is required to implement with your Angular project.
+Best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites (6.4 or later)</a>  components with <a href="https://angular.io/">Angular 6 or 7</a>. This is a fork of ngx-bootstrap. No jQuery is required to implement with your Angular project.
 </p>
 
 <!-- ## Links
@@ -16,8 +16,9 @@ Best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Founda
 1. [Getting Started](#getting-started)
 2. [Installation Instructions](#installation-instructions)
 3. [API and Demo](#api-and-demo)
-4. [Troubleshooting](#troubleshooting)
-5. [License](#license)
+4. [Starter Kit](#starter-kit)
+5. [Troubleshooting](#troubleshooting)
+6. [License](#license)
 
 ## Getting Started
 
@@ -96,6 +97,10 @@ First time:
  - `npm run build.watch` _*// in first terminal*_
  - `ng serve` _*// in second*_ -->
 
+
+### Starter Kit
+
+Want to get your ngx-foundation project up and running quickly? Use the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7 and SCSS) with detailed instructions and includes all necessary base assets and components.    
 
 ## Troubleshooting
 
