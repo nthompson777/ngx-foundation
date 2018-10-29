@@ -100,12 +100,7 @@ Want to get your ngx-foundation project up and running quickly? Use the [ngx-fou
 
 ## Troubleshooting
 
-So if you are in trouble, here's where you can look for help.
-
 The best place to ask questions is on [StackOverflow (under the `ngx-foundation` tag)](https://stackoverflow.com/questions/tagged/ngx-foundation)
-
-
-<!-- If, **and only if**, none of the above helped, please open a [new issue](https://github.com/nthompson777/ngx-foundation/issues/new). -->
 
 ### License
 
