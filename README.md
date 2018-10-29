@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-The best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites (6.4 or later)</a>  components with <a href="https://angular.io/">Angular 6 or 7</a>. This is a fork of [ngx-bootstrap by Valor Software](https://valor-software.com/ngx-bootstrap). No jQuery is required to implement with your Angular project.
+The best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites (6.4 or later)</a>  components with <a href="https://angular.io/">Angular 6 or 7</a>. This is a fork of <a href="https://valor-software.com/ngx-bootstrap" target="_blank">ngx-bootstrap by Valor Software</a>. No jQuery is required to implement with your Angular project.
 </p>
 
 <!-- ## Links
