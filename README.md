@@ -51,6 +51,30 @@ Add component to your page:
 </button>
 ```
 
+List of available modules for import:
+
+```
+import {
+  AccordionModule,
+  AlertModule,        // Foundation Callouts
+  ButtonsModule,
+  CarouselModule,     // Foundation Orbit
+  CollapseModule,
+  BsDatepickerModule,
+  BsDropdownModule,   // Foundation Dropdown Menus and Dropdown Panes
+  ModalModule,        // Foundation Reveal
+  OffcanvasModule,
+  PaginationModule,
+  ProgressbarModule,
+  RatingModule,
+  SortableModule,
+  TabsModule,
+  TimepickerModule,
+  TooltipModule,
+  TypeaheadModule,
+} from 'ngx-foundation';
+```
+
 Download the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7 and SCSS) to get up and running quickly.
 
 If you're going the CSS route you will need Foundation 6 styles:
