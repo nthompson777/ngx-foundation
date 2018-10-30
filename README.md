@@ -57,7 +57,7 @@ If you're going the CSS route you will need Foundation 6 styles:
 - `Foundation 6`
 ```
 <!-- index.html -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/foundation-sites@6.4.3/dist/css/foundation.min.css" rel="stylesheet">
 ```
 
 ## API and Demo
@@ -72,27 +72,6 @@ API documentation and usage scenarios available here:
  - `plnkr` sample available [here](https://plnkr.co/edit/0NipkZrnckZZROAcnjzB?p=preview)
  - `AoT using ngc and rollup` please refer to [ngx-foundation-with-aot](https://github.com/valor-software/ngx-foundation/tree/development/docs/getting-started/aot.md)
  - `ASP.NET Core 2.0` please refer to [using-with-asp.net-core-2](https://github.com/csegyud/ASPNETCore_ngx-foundation_Sample/blob/master/README.md) -->
-
-<!-- ### How to build lib for development
-
-First time:
- - clone the Starter Kit
- - `yarn` or `npm install`
- - `npm run test` -->
-
-<!-- To update your fork and prepare it for local usage:
- - `git pull upstream development`
- - `rm -rf node_modules`
- - `npm install`
- - `npm run test` _*// it will build the lib, create a link in node_modules and run package's "test" script*_ -->
-
-<!-- To run the demo:
- - `npm run demo.serve` _*// to serve local demo. This is for testing only, without watchers.*_ -->
-
-<!-- For local development run:
- - `npm run build.watch` _*// in first terminal*_
- - `ng serve` _*// in second*_ -->
-
 
 ### Starter Kit
 
