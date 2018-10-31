@@ -75,7 +75,7 @@ import {
   TypeaheadModule,
 } from 'ngx-foundation';
 ```
-### Add ngx-foundation and Foundation Base Styles
+### Add ngx-foundation and Foundation SCSS Base Styles
 Import ngx-foundation base styles to your main `src/styles.scss` file:
 
 ```
