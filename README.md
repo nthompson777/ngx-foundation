@@ -75,10 +75,23 @@ import {
   TypeaheadModule,
 } from 'ngx-foundation';
 ```
+### Add ngx-foundation and Foundation Base Styles
+Import ngx-foundation base styles to your main `src/styles.scss` file:
+
+```
+// Import Foundation for Sites
+// See https://foundation.zurb.com/sites/docs/sass.html for detailed info.
+@import '~foundation-sites/scss/foundation';
+  @include foundation-everything;
+
+// Import Angular ngx-foundation Framework Added Styles
+@import "~ngx-foundation/assets/scss/main";
+```
 
 Download the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7 and SCSS) to get up and running quickly.
 
-If you're going the CSS route you will need Foundation 6 and ngx-foundation base styles:
+### CSS Only Route 
+If you're going the CSS only route you will need Foundation 6 and ngx-foundation base styles:
 - `Foundation 6`
 ```
 <!-- index.html -->
