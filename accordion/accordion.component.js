@@ -32,7 +32,7 @@ var AccordionComponent = /** @class */ (function () {
                     host: {
                         '[attr.aria-multiselectable]': 'closeOthers',
                         role: 'tablist',
-                        class: 'panel-group',
+                        class: 'accordion',
                         style: 'display: block'
                     }
                 },] },

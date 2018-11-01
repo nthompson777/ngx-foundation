@@ -58,9 +58,10 @@ var AccordionPanelComponent = /** @class */ (function () {
     AccordionPanelComponent.decorators = [
         { type: Component, args: [{
                     selector: 'accordion-group, accordion-panel',
-                    template: "<div class=\"accordion\"> <div class=\"accordion-item\" role=\"tab\" (click)=\"toggleOpen($event)\" [ngClass]=\"{'is-active': isOpen}\"> <a role=\"button\" class=\"accordion-title\" [attr.aria-expanded]=\"isOpen\" *ngIf=\"heading\" [ngClass]=\"{'disabled': isDisabled}\"> {{ heading }} </a> <ng-content select=\"[accordion-heading]\"></ng-content></div> <div class=\"accordion-content collapse\" role=\"tabpanel\" [collapse]=\"!isOpen\">  <ng-content></ng-content></div> </div> ",
+                    template: "<a role=\"button\" class=\"accordion-title\" [attr.aria-expanded]=\"isOpen\" *ngIf=\"heading\" (click)=\"toggleOpen($event)\" [ngClass]=\"{'is-active': isOpen, 'disabled': isDisabled}\"> {{ heading }} </a> <ng-content select=\"[accordion-heading]\"></ng-content> <div class=\"accordion-content collapse\" role=\"tabpanel\" [collapse]=\"!isOpen\">  <ng-content></ng-content></div>",
                     host: {
-                        class: 'panel',
+                        class: 'accordion-item',
+                        role: 'tab',
                         style: 'display: block'
                     }
                 },] },
