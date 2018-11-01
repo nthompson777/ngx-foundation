@@ -2,6 +2,12 @@
 All notable changes and release notes to ngx-foundation will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+<a name="1.0.6"></a>
+## [1.0.6] - 2018-11-01
+
+### Bugfixes 
+- Accordion: fix accordion group structure so last-child accordion-item has a bottom border and fix the classes applied
+
 <a name="1.0.5"></a>
 ## [1.0.5] - 2018-10-31
 

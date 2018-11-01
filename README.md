@@ -88,19 +88,19 @@ Import ngx-foundation base styles to your main `src/styles.scss` file:
 @import "~ngx-foundation/assets/scss/main";
 ```
 
-Download the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7 and SCSS) to get up and running quickly.
+Download the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7, Foundation for Sites using SCSS, and ngx-foundation) to get up and running quickly.
 
-### CSS Only Route 
-If you're going the CSS only route you will need Foundation 6 and ngx-foundation base styles:
+### CSS Only 
+If you're going the flat CSS only route you will need Foundation 6 and ngx-foundation base styles:
 - `Foundation 6`
 ```
 <!-- index.html -->
-<link href="https://cdn.jsdelivr.net/npm/foundation-sites@6.4.3/dist/css/foundation.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/foundation-sites@6.5.0/dist/css/foundation.min.css" rel="stylesheet">
 ```
 - `ngx-foundation`
 ```
 <!-- index.html -->
-<link href="https://cdn.jsdelivr.net/npm/ngx-foundation@1.0.5/dist/css/ngx-foundation.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/ngx-foundation@1.0.6/dist/css/ngx-foundation.min.css" rel="stylesheet">
 ```
 
 ## API and Demo
@@ -110,7 +110,7 @@ API documentation and usage scenarios available here:
 
 ### Starter Kit
 
-Want to get your ngx-foundation project up and running quickly? Use the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7 and SCSS) with detailed instructions and includes all necessary base assets and components.    
+Want to get your ngx-foundation project up and running quickly? Use the [ngx-foundation Starter Kit](https://github.com/nthompson777/ngx-foundation-starterkit) (uses Angular 7, Foundation for Sites using SCSS, and ngx-foundation) with detailed instructions and includes all necessary base assets and components.    
 
 ## Troubleshooting
 
