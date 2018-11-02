@@ -1,10 +1,7 @@
-<a href="http://ngxfoundation.com">
-    <h1 align="center">ngx-foundation</h1>
-</a>
 
-<p align="center">
+# ngx-foundation
+
 The best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Foundation for Sites (6.4 or later)</a>  components with <a href="https://angular.io/">Angular 6 or 7</a>. This is a fork of <a href="https://valor-software.com/ngx-bootstrap" target="_blank">ngx-bootstrap by Valor Software</a>. No jQuery is required to implement with your Angular project.
-</p>
 
 [![dependencies Status](https://david-dm.org/nthompson777/ngx-foundation/status.svg)](https://david-dm.org/nthompson777/ngx-foundation) [![npm version](https://img.shields.io/npm/v/ngx-foundation.svg)](https://npmjs.org/package/ngx-foundation) 
 [![GitHub license](https://img.shields.io/github/license/nthompson777/ngx-foundation.svg)](https://github.com/nthompson777/ngx-foundation/blob/master/LICENSE) 
