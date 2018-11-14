@@ -1,7 +1,7 @@
 
 # ngx-foundation
 
-[![dependencies Status](https://david-dm.org/nthompson777/ngx-foundation/status.svg)](https://david-dm.org/nthompson777/ngx-foundation) [![npm version](https://img.shields.io/npm/v/ngx-foundation.svg)](https://npmjs.org/package/ngx-foundation) 
+[![npm version](https://img.shields.io/npm/v/ngx-foundation.svg)](https://npmjs.org/package/ngx-foundation) 
 [![GitHub license](https://img.shields.io/github/license/nthompson777/ngx-foundation.svg)](https://github.com/nthompson777/ngx-foundation/blob/master/LICENSE) 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/nthompson777/ngx-foundation.svg?style=social)](https://twitter.com/intent/tweet?text=The+best+way+to+quickly+integrate+Zurb+Foundation+for+Sites+components+with+Angular+6+or+7:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fngx-foundation)
 
