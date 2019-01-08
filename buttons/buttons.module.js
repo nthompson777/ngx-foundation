@@ -17,4 +17,3 @@ var ButtonsModule = /** @class */ (function () {
     return ButtonsModule;
 }());
 export { ButtonsModule };
-//# sourceMappingURL=buttons.module.js.map

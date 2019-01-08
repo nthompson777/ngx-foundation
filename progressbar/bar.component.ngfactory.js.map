@@ -1,1 +1,0 @@
-{"version":3,"file":"bar.component.ngfactory.js","sourceRoot":"","sources":["../../.tmp/progressbar/bar.component.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

@@ -27,4 +27,3 @@ var MiniState = /** @class */ (function (_super) {
     return MiniState;
 }(BehaviorSubject));
 export { MiniState };
-//# sourceMappingURL=state.class.js.map

@@ -37,4 +37,3 @@ var BsMonthCalendarViewComponent = /** @class */ (function () {
     return BsMonthCalendarViewComponent;
 }());
 export { BsMonthCalendarViewComponent };
-//# sourceMappingURL=bs-months-calendar-view.component.js.map

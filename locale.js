@@ -28,4 +28,3 @@ export { heLocale } from './chronos/i18n/he';
 export { thLocale } from './chronos/i18n/th';
 export { slLocale } from './chronos/i18n/sl';
 export { glLocale } from './chronos/i18n/gl';
-//# sourceMappingURL=locale.js.map

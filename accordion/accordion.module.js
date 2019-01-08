@@ -20,4 +20,3 @@ var AccordionModule = /** @class */ (function () {
     return AccordionModule;
 }());
 export { AccordionModule };
-//# sourceMappingURL=accordion.module.js.map

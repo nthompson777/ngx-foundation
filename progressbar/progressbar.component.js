@@ -73,4 +73,3 @@ var ProgressbarComponent = /** @class */ (function () {
     return ProgressbarComponent;
 }());
 export { ProgressbarComponent };
-//# sourceMappingURL=progressbar.component.js.map

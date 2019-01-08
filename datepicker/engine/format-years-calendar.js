@@ -27,4 +27,3 @@ function formatYearRangeTitle(yearsMatrix, formatOptions) {
     var to = formatDate(yearsMatrix[height - 1][width - 1].date, formatOptions.yearTitle, formatOptions.locale);
     return from + " - " + to;
 }
-//# sourceMappingURL=format-years-calendar.js.map

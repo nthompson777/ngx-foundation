@@ -20,4 +20,3 @@ var CarouselModule = /** @class */ (function () {
     return CarouselModule;
 }());
 export { CarouselModule };
-//# sourceMappingURL=carousel.module.js.map

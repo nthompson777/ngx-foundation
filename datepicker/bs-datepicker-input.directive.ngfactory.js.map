@@ -1,1 +1,0 @@
-{"version":3,"file":"bs-datepicker-input.directive.ngfactory.js","sourceRoot":"","sources":["../../.tmp/datepicker/bs-datepicker-input.directive.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

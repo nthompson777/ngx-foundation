@@ -18,4 +18,3 @@ var SortableModule = /** @class */ (function () {
     return SortableModule;
 }());
 export { SortableModule };
-//# sourceMappingURL=sortable.module.js.map

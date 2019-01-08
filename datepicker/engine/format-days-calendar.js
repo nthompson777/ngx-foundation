@@ -31,4 +31,3 @@ export function getShiftedWeekdays(locale) {
     var firstDayOfWeek = _locale.firstDayOfWeek();
     return weekdays.slice(firstDayOfWeek).concat(weekdays.slice(0, firstDayOfWeek));
 }
-//# sourceMappingURL=format-days-calendar.js.map

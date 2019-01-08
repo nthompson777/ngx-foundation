@@ -214,4 +214,3 @@ var BsDatepickerDirective = /** @class */ (function () {
     return BsDatepickerDirective;
 }());
 export { BsDatepickerDirective };
-//# sourceMappingURL=bs-datepicker.component.js.map

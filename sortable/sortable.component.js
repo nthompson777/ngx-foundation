@@ -183,4 +183,3 @@ var SortableComponent = /** @class */ (function () {
     return SortableComponent;
 }());
 export { SortableComponent };
-//# sourceMappingURL=sortable.component.js.map

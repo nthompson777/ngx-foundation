@@ -27,4 +27,3 @@ export function flagMonthsCalendar(monthCalendar, options) {
     monthCalendar.disableRightArrow = isYearDisabled(shiftDate(monthCalendar.months[0][0].date, { year: 1 }), options.minDate, options.maxDate);
     return monthCalendar;
 }
-//# sourceMappingURL=flag-months-calendar.js.map

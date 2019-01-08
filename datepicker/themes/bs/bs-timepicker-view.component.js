@@ -14,4 +14,3 @@ var BsTimepickerViewComponent = /** @class */ (function () {
     return BsTimepickerViewComponent;
 }());
 export { BsTimepickerViewComponent };
-//# sourceMappingURL=bs-timepicker-view.component.js.map

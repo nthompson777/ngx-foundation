@@ -41,4 +41,3 @@ export var DISMISS_REASONS = {
     BACKRDOP: 'backdrop-click',
     ESC: 'esc'
 };
-//# sourceMappingURL=modal-options.class.js.map

@@ -33,4 +33,3 @@ var BsDatepickerStore = /** @class */ (function (_super) {
     return BsDatepickerStore;
 }(MiniStore));
 export { BsDatepickerStore };
-//# sourceMappingURL=bs-datepicker.store.js.map

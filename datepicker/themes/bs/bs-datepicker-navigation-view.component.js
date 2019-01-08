@@ -27,4 +27,3 @@ var BsDatepickerNavigationViewComponent = /** @class */ (function () {
     return BsDatepickerNavigationViewComponent;
 }());
 export { BsDatepickerNavigationViewComponent };
-//# sourceMappingURL=bs-datepicker-navigation-view.component.js.map

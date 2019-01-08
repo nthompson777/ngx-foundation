@@ -10,4 +10,3 @@ var TabsetConfig = /** @class */ (function () {
     return TabsetConfig;
 }());
 export { TabsetConfig };
-//# sourceMappingURL=tabset.config.js.map

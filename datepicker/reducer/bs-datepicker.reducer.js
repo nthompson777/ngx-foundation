@@ -258,4 +258,3 @@ function getViewDate(viewDate, minDate, maxDate) {
     }
     return _date;
 }
-//# sourceMappingURL=bs-datepicker.reducer.js.map

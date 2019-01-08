@@ -47,4 +47,3 @@ var ComponentLoaderFactory = /** @class */ (function () {
     return ComponentLoaderFactory;
 }());
 export { ComponentLoaderFactory };
-//# sourceMappingURL=component-loader.factory.js.map

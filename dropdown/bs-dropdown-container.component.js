@@ -56,4 +56,3 @@ var BsDropdownContainerComponent = /** @class */ (function () {
     return BsDropdownContainerComponent;
 }());
 export { BsDropdownContainerComponent };
-//# sourceMappingURL=bs-dropdown-container.component.js.map

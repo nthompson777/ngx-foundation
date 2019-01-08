@@ -18,4 +18,3 @@ var BsDropdownState = /** @class */ (function () {
     return BsDropdownState;
 }());
 export { BsDropdownState };
-//# sourceMappingURL=bs-dropdown.state.js.map

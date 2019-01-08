@@ -24,4 +24,3 @@ var BsDaterangepickerConfig = /** @class */ (function (_super) {
     return BsDaterangepickerConfig;
 }(BsDatepickerConfig));
 export { BsDaterangepickerConfig };
-//# sourceMappingURL=bs-daterangepicker.config.js.map

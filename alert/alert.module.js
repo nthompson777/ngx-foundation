@@ -19,4 +19,3 @@ var AlertModule = /** @class */ (function () {
     return AlertModule;
 }());
 export { AlertModule };
-//# sourceMappingURL=alert.module.js.map

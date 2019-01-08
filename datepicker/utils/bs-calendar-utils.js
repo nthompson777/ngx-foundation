@@ -27,4 +27,3 @@ export function isYearDisabled(date, min, max) {
     var maxBound = max && isAfter(startOf(date, 'year'), max, 'day');
     return minBound || maxBound;
 }
-//# sourceMappingURL=bs-calendar-utils.js.map

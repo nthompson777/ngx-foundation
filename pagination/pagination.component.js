@@ -246,4 +246,3 @@ var PaginationComponent = /** @class */ (function () {
     return PaginationComponent;
 }());
 export { PaginationComponent };
-//# sourceMappingURL=pagination.component.js.map

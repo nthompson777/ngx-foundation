@@ -246,4 +246,3 @@ var PagerComponent = /** @class */ (function () {
     return PagerComponent;
 }());
 export { PagerComponent };
-//# sourceMappingURL=pager.component.js.map

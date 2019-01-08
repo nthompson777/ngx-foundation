@@ -31,4 +31,3 @@ var NgTranscludeDirective = /** @class */ (function () {
     return NgTranscludeDirective;
 }());
 export { NgTranscludeDirective };
-//# sourceMappingURL=ng-transclude.directive.js.map

@@ -8,4 +8,3 @@ var DateFormatter = /** @class */ (function () {
     return DateFormatter;
 }());
 export { DateFormatter };
-//# sourceMappingURL=date-formatter.js.map

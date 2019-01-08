@@ -5,4 +5,3 @@ export { escapeRegexp, getValueFromObject, tokenize, latinize } from './typeahea
 export { TypeaheadContainerComponent } from './typeahead-container.component';
 export { TypeaheadDirective } from './typeahead.directive';
 export { TypeaheadModule } from './typeahead.module';
-//# sourceMappingURL=index.js.map

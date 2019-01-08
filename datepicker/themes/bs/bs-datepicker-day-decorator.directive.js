@@ -25,4 +25,3 @@ var BsDatepickerDayDecoratorComponent = /** @class */ (function () {
     return BsDatepickerDayDecoratorComponent;
 }());
 export { BsDatepickerDayDecoratorComponent };
-//# sourceMappingURL=bs-datepicker-day-decorator.directive.js.map

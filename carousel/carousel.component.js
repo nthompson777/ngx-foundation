@@ -416,4 +416,3 @@ var CarouselComponent = /** @class */ (function () {
     return CarouselComponent;
 }());
 export { CarouselComponent };
-//# sourceMappingURL=carousel.component.js.map

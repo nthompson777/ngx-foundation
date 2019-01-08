@@ -15,4 +15,3 @@ var BsCurrentDateViewComponent = /** @class */ (function () {
     return BsCurrentDateViewComponent;
 }());
 export { BsCurrentDateViewComponent };
-//# sourceMappingURL=bs-current-date-view.component.js.map

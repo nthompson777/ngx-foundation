@@ -14,4 +14,3 @@ var AlertConfig = /** @class */ (function () {
     return AlertConfig;
 }());
 export { AlertConfig };
-//# sourceMappingURL=alert.config.js.map

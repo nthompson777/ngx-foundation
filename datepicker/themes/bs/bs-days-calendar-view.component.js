@@ -39,4 +39,3 @@ var BsDaysCalendarViewComponent = /** @class */ (function () {
     return BsDaysCalendarViewComponent;
 }());
 export { BsDaysCalendarViewComponent };
-//# sourceMappingURL=bs-days-calendar-view.component.js.map

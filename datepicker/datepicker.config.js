@@ -25,4 +25,3 @@ var DatepickerConfig = /** @class */ (function () {
     return DatepickerConfig;
 }());
 export { DatepickerConfig };
-//# sourceMappingURL=datepicker.config.js.map

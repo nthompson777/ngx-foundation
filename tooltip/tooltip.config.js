@@ -13,4 +13,3 @@ var TooltipConfig = /** @class */ (function () {
     return TooltipConfig;
 }());
 export { TooltipConfig };
-//# sourceMappingURL=tooltip.config.js.map

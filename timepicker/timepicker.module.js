@@ -23,4 +23,3 @@ var TimepickerModule = /** @class */ (function () {
     return TimepickerModule;
 }());
 export { TimepickerModule };
-//# sourceMappingURL=timepicker.module.js.map

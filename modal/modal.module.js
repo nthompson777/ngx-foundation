@@ -28,4 +28,3 @@ var ModalModule = /** @class */ (function () {
     return ModalModule;
 }());
 export { ModalModule };
-//# sourceMappingURL=modal.module.js.map

@@ -147,4 +147,3 @@ var BsDaterangepickerInputDirective = /** @class */ (function () {
     return BsDaterangepickerInputDirective;
 }());
 export { BsDaterangepickerInputDirective };
-//# sourceMappingURL=bs-daterangepicker-input.directive.js.map

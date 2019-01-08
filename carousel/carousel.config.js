@@ -16,4 +16,3 @@ var CarouselConfig = /** @class */ (function () {
     return CarouselConfig;
 }());
 export { CarouselConfig };
-//# sourceMappingURL=carousel.config.js.map

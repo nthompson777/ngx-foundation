@@ -43,4 +43,3 @@ var BsDropdownModule = /** @class */ (function () {
     return BsDropdownModule;
 }());
 export { BsDropdownModule };
-//# sourceMappingURL=bs-dropdown.module.js.map

@@ -31,4 +31,3 @@ var DraggableItemService = /** @class */ (function () {
     return DraggableItemService;
 }());
 export { DraggableItemService };
-//# sourceMappingURL=draggable-item.service.js.map

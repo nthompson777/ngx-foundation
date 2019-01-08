@@ -69,4 +69,3 @@ function isDateInRange(date, selectedRange, hoveredDate) {
     }
     return false;
 }
-//# sourceMappingURL=flag-days-calendar.js.map

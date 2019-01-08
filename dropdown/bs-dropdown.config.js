@@ -11,4 +11,3 @@ var BsDropdownConfig = /** @class */ (function () {
     return BsDropdownConfig;
 }());
 export { BsDropdownConfig };
-//# sourceMappingURL=bs-dropdown.config.js.map

@@ -94,4 +94,3 @@ var TabDirective = /** @class */ (function () {
     return TabDirective;
 }());
 export { TabDirective };
-//# sourceMappingURL=tab.directive.js.map

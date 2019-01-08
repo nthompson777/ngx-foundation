@@ -43,4 +43,3 @@ var MiniStore = /** @class */ (function (_super) {
     return MiniStore;
 }(Observable));
 export { MiniStore };
-//# sourceMappingURL=store.class.js.map
