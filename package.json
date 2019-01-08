@@ -1,11 +1,11 @@
 {
 	"name": "ngx-foundation",
 	"description": "Native Angular Foundation for Sites Components",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"author": "Nate Thompson, Dmitriy Shekhovtsov",
 	"homepage": "https://ngxfoundation.com/",
 	"repository": {
-    "type": "git",
+		"type": "git",
 		"url": "https://github.com/nthompson777/ngx-foundation.git"
 	},
 	"license": "MIT",
@@ -18,7 +18,7 @@
 		"foundation-for-sites-angular-framework"
 	],
 	"module": "index.js",
-	"typings": "index.d.ts",	
+	"typings": "index.d.ts",
 	"peerDependencies": {
 		"@angular/common": ">=6.0.0",
 		"@angular/core": ">=6.0.0"
