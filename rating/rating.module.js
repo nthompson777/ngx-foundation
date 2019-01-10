@@ -20,3 +20,4 @@ var RatingModule = /** @class */ (function () {
     return RatingModule;
 }());
 export { RatingModule };
+//# sourceMappingURL=rating.module.js.map

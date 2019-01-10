@@ -19,3 +19,4 @@ var ProgressbarModule = /** @class */ (function () {
     return ProgressbarModule;
 }());
 export { ProgressbarModule };
+//# sourceMappingURL=progressbar.module.js.map

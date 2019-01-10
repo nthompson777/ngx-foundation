@@ -47,3 +47,4 @@ var AccordionComponent = /** @class */ (function () {
     return AccordionComponent;
 }());
 export { AccordionComponent };
+//# sourceMappingURL=accordion.component.js.map

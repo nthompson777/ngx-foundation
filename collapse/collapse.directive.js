@@ -95,3 +95,4 @@ var CollapseDirective = /** @class */ (function () {
     return CollapseDirective;
 }());
 export { CollapseDirective };
+//# sourceMappingURL=collapse.directive.js.map

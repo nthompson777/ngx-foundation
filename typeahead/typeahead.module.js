@@ -24,3 +24,4 @@ var TypeaheadModule = /** @class */ (function () {
     return TypeaheadModule;
 }());
 export { TypeaheadModule };
+//# sourceMappingURL=typeahead.module.js.map

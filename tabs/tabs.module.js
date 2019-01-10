@@ -34,3 +34,4 @@ var TabsModule = /** @class */ (function () {
     return TabsModule;
 }());
 export { TabsModule };
+//# sourceMappingURL=tabs.module.js.map

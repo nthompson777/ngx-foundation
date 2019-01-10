@@ -19,3 +19,4 @@ export function formatMonthsCalendar(viewDate, formatOptions) {
         yearTitle: formatDate(viewDate, formatOptions.yearTitle, formatOptions.locale)
     };
 }
+//# sourceMappingURL=format-months-calendar.js.map

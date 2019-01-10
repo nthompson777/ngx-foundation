@@ -15,3 +15,4 @@ var OffcanvasModule = /** @class */ (function () {
     return OffcanvasModule;
 }());
 export { OffcanvasModule };
+//# sourceMappingURL=offcanvas.module.js.map

@@ -131,3 +131,4 @@ var BsDatepickerInputDirective = /** @class */ (function () {
     return BsDatepickerInputDirective;
 }());
 export { BsDatepickerInputDirective };
+//# sourceMappingURL=bs-datepicker-input.directive.js.map

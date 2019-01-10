@@ -13,3 +13,4 @@ var AccordionConfig = /** @class */ (function () {
     return AccordionConfig;
 }());
 export { AccordionConfig };
+//# sourceMappingURL=accordion.config.js.map

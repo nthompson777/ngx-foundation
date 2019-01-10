@@ -255,3 +255,4 @@ var ComponentLoader = /** @class */ (function () {
     return ComponentLoader;
 }());
 export { ComponentLoader };
+//# sourceMappingURL=component-loader.class.js.map

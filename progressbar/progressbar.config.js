@@ -12,3 +12,4 @@ var ProgressbarConfig = /** @class */ (function () {
     return ProgressbarConfig;
 }());
 export { ProgressbarConfig };
+//# sourceMappingURL=progressbar.config.js.map

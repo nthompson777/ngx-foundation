@@ -102,3 +102,4 @@ var BsDaterangepickerContainerComponent = /** @class */ (function (_super) {
     return BsDaterangepickerContainerComponent;
 }(BsDatepickerAbstractComponent));
 export { BsDaterangepickerContainerComponent };
+//# sourceMappingURL=bs-daterangepicker-container.component.js.map

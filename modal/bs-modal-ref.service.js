@@ -12,3 +12,4 @@ var BsModalRef = /** @class */ (function () {
     return BsModalRef;
 }());
 export { BsModalRef };
+//# sourceMappingURL=bs-modal-ref.service.js.map

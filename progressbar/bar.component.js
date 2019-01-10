@@ -84,3 +84,4 @@ var BarComponent = /** @class */ (function () {
     return BarComponent;
 }());
 export { BarComponent };
+//# sourceMappingURL=bar.component.js.map

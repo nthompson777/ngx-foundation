@@ -131,3 +131,4 @@ var TabsetComponent = /** @class */ (function () {
     return TabsetComponent;
 }());
 export { TabsetComponent };
+//# sourceMappingURL=tabset.component.js.map

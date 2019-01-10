@@ -1,5 +1,5 @@
 {
-  "compileOnSave": true,
+  "compileOnSave": false,
   "compilerOptions": {
     "outDir": "../dist/out-tsc",
     "baseUrl": ".",
@@ -14,7 +14,7 @@
       "../node_modules/@types"
     ],
     "paths": {
-      "ngx-foundation*": [
+      "ngx-bootstrap*": [
         "."
       ]
     },

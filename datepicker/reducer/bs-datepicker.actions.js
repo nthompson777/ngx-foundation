@@ -101,3 +101,4 @@ var BsDatepickerActions = /** @class */ (function () {
     return BsDatepickerActions;
 }());
 export { BsDatepickerActions };
+//# sourceMappingURL=bs-datepicker.actions.js.map

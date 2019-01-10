@@ -23,3 +23,4 @@ export { ComponentLoader, ComponentLoaderFactory, ContentRef } from './component
 export { Positioning, PositioningService, positionElements } from './positioning/index';
 export { defineLocale, getSetGlobalLocale } from './chronos/index';
 export * from './locale';
+//# sourceMappingURL=index.js.map

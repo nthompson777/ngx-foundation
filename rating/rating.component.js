@@ -108,3 +108,4 @@ var RatingComponent = /** @class */ (function () {
     return RatingComponent;
 }());
 export { RatingComponent };
+//# sourceMappingURL=rating.component.js.map

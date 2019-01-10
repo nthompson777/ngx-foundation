@@ -176,3 +176,4 @@ var BsDatepickerEffects = /** @class */ (function () {
     return BsDatepickerEffects;
 }());
 export { BsDatepickerEffects };
+//# sourceMappingURL=bs-datepicker.effects.js.map

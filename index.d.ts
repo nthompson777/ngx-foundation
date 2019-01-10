@@ -17,7 +17,7 @@ export { NgTranscludeDirective, TabDirective, TabHeadingDirective, TabsetCompone
 export { TimepickerComponent, TimepickerConfig, TimepickerModule } from './timepicker/index';
 export { TooltipConfig, TooltipContainerComponent, TooltipDirective, TooltipModule } from './tooltip/index';
 export { TypeaheadOptions, TypeaheadContainerComponent, TypeaheadDirective, TypeaheadMatch, TypeaheadModule } from './typeahead/index';
-/* export { PopoverConfig, PopoverContainerComponent, PopoverDirective, PopoverModule } from './popover/index'; */
+export { PopoverConfig, PopoverContainerComponent, PopoverDirective, PopoverModule } from './popover/index';
 export { OnChange, LinkedList, isBs3, Trigger, Utils } from './utils/index';
 export { ComponentLoader, ComponentLoaderFactory, ContentRef } from './component-loader/index';
 export { Positioning, PositioningOptions, PositioningService, positionElements } from './positioning/index';

@@ -80,3 +80,4 @@ var AccordionPanelComponent = /** @class */ (function () {
     return AccordionPanelComponent;
 }());
 export { AccordionPanelComponent };
+//# sourceMappingURL=accordion-group.component.js.map

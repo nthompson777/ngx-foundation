@@ -301,3 +301,4 @@ var BsDropdownDirective = /** @class */ (function () {
     return BsDropdownDirective;
 }());
 export { BsDropdownDirective };
+//# sourceMappingURL=bs-dropdown.directive.js.map

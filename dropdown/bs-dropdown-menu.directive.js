@@ -22,3 +22,4 @@ var BsDropdownMenuDirective = /** @class */ (function () {
     return BsDropdownMenuDirective;
 }());
 export { BsDropdownMenuDirective };
+//# sourceMappingURL=bs-dropdown-menu.directive.js.map

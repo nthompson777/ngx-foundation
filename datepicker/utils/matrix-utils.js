@@ -11,3 +11,4 @@ export function createMatrix(options, fn) {
     }
     return matrix;
 }
+//# sourceMappingURL=matrix-utils.js.map

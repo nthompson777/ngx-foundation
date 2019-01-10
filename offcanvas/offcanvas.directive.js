@@ -96,3 +96,4 @@ var OffcanvasDirective = /** @class */ (function () {
     return OffcanvasDirective;
 }());
 export { OffcanvasDirective };
+//# sourceMappingURL=offcanvas.directive.js.map

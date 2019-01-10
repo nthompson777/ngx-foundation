@@ -44,3 +44,4 @@ var SlideComponent = /** @class */ (function () {
     return SlideComponent;
 }());
 export { SlideComponent };
+//# sourceMappingURL=slide.component.js.map

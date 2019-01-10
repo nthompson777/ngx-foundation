@@ -57,3 +57,4 @@ export function getValueFromObject(object, option) {
     }
     return object.toString();
 }
+//# sourceMappingURL=typeahead-utils.js.map

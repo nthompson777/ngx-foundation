@@ -39,3 +39,4 @@ var BsLocaleService = /** @class */ (function () {
     return BsLocaleService;
 }());
 export { BsLocaleService };
+//# sourceMappingURL=bs-locale.service.js.map

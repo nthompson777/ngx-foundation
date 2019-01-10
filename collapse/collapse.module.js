@@ -15,3 +15,4 @@ var CollapseModule = /** @class */ (function () {
     return CollapseModule;
 }());
 export { CollapseModule };
+//# sourceMappingURL=collapse.module.js.map

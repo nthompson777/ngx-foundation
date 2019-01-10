@@ -5,3 +5,4 @@ var TypeaheadOptions = /** @class */ (function () {
     return TypeaheadOptions;
 }());
 export { TypeaheadOptions };
+//# sourceMappingURL=typeahead-options.class.js.map

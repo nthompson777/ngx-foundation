@@ -11,3 +11,4 @@ var BsCalendarLayoutComponent = /** @class */ (function () {
     return BsCalendarLayoutComponent;
 }());
 export { BsCalendarLayoutComponent };
+//# sourceMappingURL=bs-calendar-layout.component.js.map

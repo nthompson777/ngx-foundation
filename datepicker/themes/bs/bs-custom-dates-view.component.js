@@ -17,3 +17,4 @@ var BsCustomDatesViewComponent = /** @class */ (function () {
     return BsCustomDatesViewComponent;
 }());
 export { BsCustomDatesViewComponent };
+//# sourceMappingURL=bs-custom-dates-view.component.js.map

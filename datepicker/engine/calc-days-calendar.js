@@ -16,3 +16,4 @@ export function calcDaysCalendar(startingDate, options) {
         month: firstDay
     };
 }
+//# sourceMappingURL=calc-days-calendar.js.map

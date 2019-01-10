@@ -28,3 +28,4 @@ var PaginationConfig = /** @class */ (function () {
     return PaginationConfig;
 }());
 export { PaginationConfig };
+//# sourceMappingURL=pagination.config.js.map

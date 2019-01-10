@@ -84,3 +84,4 @@ var BsDatepickerContainerComponent = /** @class */ (function (_super) {
     return BsDatepickerContainerComponent;
 }(BsDatepickerAbstractComponent));
 export { BsDatepickerContainerComponent };
+//# sourceMappingURL=bs-datepicker-container.component.js.map

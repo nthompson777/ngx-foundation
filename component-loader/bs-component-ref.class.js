@@ -4,3 +4,4 @@ var BsComponentRef = /** @class */ (function () {
     return BsComponentRef;
 }());
 export { BsComponentRef };
+//# sourceMappingURL=bs-component-ref.class.js.map

@@ -2,12 +2,6 @@
 All notable changes and release notes to ngx-foundation will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-<a name="1.0.7"></a>
-## [1.0.7] - 2019-01-08
-
-### Changed 
-- js map files and metadata files cleanup from original fork
-
 <a name="1.0.6"></a>
 ## [1.0.6] - 2018-11-01
 

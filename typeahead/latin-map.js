@@ -825,3 +825,4 @@ export var latinMap = {
     'ᵥ': 'v',
     'ₓ': 'x'
 };
+//# sourceMappingURL=latin-map.js.map

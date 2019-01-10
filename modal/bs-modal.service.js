@@ -171,3 +171,4 @@ var BsModalService = /** @class */ (function () {
     return BsModalService;
 }());
 export { BsModalService };
+//# sourceMappingURL=bs-modal.service.js.map

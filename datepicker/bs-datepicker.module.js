@@ -77,3 +77,4 @@ var BsDatepickerModule = /** @class */ (function () {
     return BsDatepickerModule;
 }());
 export { BsDatepickerModule };
+//# sourceMappingURL=bs-datepicker.module.js.map

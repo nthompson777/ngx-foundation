@@ -26,3 +26,4 @@ export function flagYearsCalendar(yearsCalendar, options) {
     yearsCalendar.disableRightArrow = isYearDisabled(shiftDate(yearsCalendar.years[i][j].date, { year: 1 }), options.minDate, options.maxDate);
     return yearsCalendar;
 }
+//# sourceMappingURL=flag-years-calendar.js.map

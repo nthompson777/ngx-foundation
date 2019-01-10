@@ -60,3 +60,4 @@ var BsDropdownToggleDirective = /** @class */ (function () {
     return BsDropdownToggleDirective;
 }());
 export { BsDropdownToggleDirective };
+//# sourceMappingURL=bs-dropdown-toggle.directive.js.map

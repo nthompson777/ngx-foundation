@@ -13,3 +13,4 @@ export var initialDatepickerState = Object.assign(new BsDatepickerConfig(), {
     selectedRange: [],
     monthViewOptions: defaultMonthOptions
 });
+//# sourceMappingURL=bs-datepicker.state.js.map

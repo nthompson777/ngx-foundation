@@ -19,3 +19,4 @@ var PaginationModule = /** @class */ (function () {
     return PaginationModule;
 }());
 export { PaginationModule };
+//# sourceMappingURL=pagination.module.js.map

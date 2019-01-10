@@ -15,3 +15,4 @@ var TypeaheadMatch = /** @class */ (function () {
     return TypeaheadMatch;
 }());
 export { TypeaheadMatch };
+//# sourceMappingURL=typeahead-match.class.js.map

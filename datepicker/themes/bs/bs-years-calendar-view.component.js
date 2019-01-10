@@ -38,3 +38,4 @@ var BsYearsCalendarViewComponent = /** @class */ (function () {
     return BsYearsCalendarViewComponent;
 }());
 export { BsYearsCalendarViewComponent };
+//# sourceMappingURL=bs-years-calendar-view.component.js.map

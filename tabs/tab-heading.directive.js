@@ -16,3 +16,4 @@ var TabHeadingDirective = /** @class */ (function () {
     return TabHeadingDirective;
 }());
 export { TabHeadingDirective };
+//# sourceMappingURL=tab-heading.directive.js.map
