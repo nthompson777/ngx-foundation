@@ -6,7 +6,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ## [1.0.8] - 2019-01-10
 
 ### Bugfixes 
-- Builds were failing with AOT enabled. Reapplied old js map and metadata files and rolled back code to 1.0.6. Metadata and map files will be fixed with next minor build (v 1.1.0).
+- Builds were failing with AOT enabled. Reapplied old js map and metadata files and rolled back code to code from 1.0.6. Metadata and map files will be fixed with next minor build (v 1.1.0).
 
 <a name="1.0.7"></a>
 ## [1.0.7] - 2019-01-08
