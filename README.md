@@ -7,7 +7,7 @@ The best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Fo
 </p>
 
 ## Links
-- [Documentation and Code Examples](https://ngxfoundation.com)
+- [Documentation and Code Examples](http://ngxfoundation.com)
 - [Changelog and Release Notes](https://github.com/nthompson777/ngx-foundation/blob/master/CHANGELOG.md)
 
 
@@ -23,7 +23,7 @@ The best way to quickly integrate <a href="https://foundation.zurb.com/">Zurb Fo
 
 ngx-foundation contains all core Foundation components powered by Angular. There is no need to include original JS components, but we are using markup and SCSS provided by Foundation for Sites.
 
-[See the ngx-foundation website](https://www.ngxfoundation.com/getting-started) for detailed setup instructions, SCSS /style.scss setup file example and more....
+[See the ngx-foundation website](http://www.ngxfoundation.com/getting-started) for detailed setup instructions, SCSS /style.scss setup file example and more....
 
 ## Installation instructions
 
@@ -106,7 +106,7 @@ If you're going the flat CSS only route you will need Foundation 6 and ngx-found
 ## API and Demo
 
 API documentation and usage scenarios available here:
-[https://ngxfoundation.com](https://ngxfoundation.com)
+[http://ngxfoundation.com](http://ngxfoundation.com)
 
 ### Starter Kit
 
